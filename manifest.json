@@ -1,4 +1,17 @@
 {
   "gcm_sender_id": "482941778795",
-  "gcm_sender_id_comment": "Do not change the GCM Sender ID"
+  "gcm_sender_id_comment": "Do not change the GCM Sender ID",
+  "short_name": "andikasputra",
+  "name": "Andika Saputra",
+  "icons": [
+    {
+      "src":"",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#000",
+  "Theme_color": "#536878",
+  "display": "standalone"
 }
